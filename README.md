@@ -1,4 +1,3 @@
-# nevor.com
 # NEVOR - Digital Commerce & Wallet Platform
 
 **NEVOR** bridges businesses and users between Nigeria and Cameroon through:
